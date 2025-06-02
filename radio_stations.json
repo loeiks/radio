@@ -1,0 +1,24 @@
+{
+    "stations": [
+        {
+            "name": "Joy Turk",
+            "uri": "http://radiotrucker.com/en/play/223033/joy-turk",
+            "isFav": true
+        },
+        {
+            "name": "Power FM",
+            "uri": "http://radiotrucker.com/en/play/223034/power-fm",
+            "isFav": false
+        },
+        {
+            "name": "Kral Pop",
+            "uri": "http://radiotrucker.com/en/play/223035/kral-pop",
+            "isFav": true
+        },
+        {
+            "name": "Metro FM",
+            "uri": "http://radiotrucker.com/en/play/223036/metro-fm",
+            "isFav": false
+        }
+    ]
+}
